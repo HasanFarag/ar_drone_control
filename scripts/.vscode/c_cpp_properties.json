@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/hasan/fetch_ws/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/hasan/fetch_ws/src/gpd/include/**",
+        "/home/hasan/fetch_ws/src/gpd_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
